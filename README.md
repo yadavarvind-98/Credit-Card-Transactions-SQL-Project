@@ -2,7 +2,7 @@
 
 It's a Credit Crad Transactions dataset.
 
-## Below mentioned questions bo be answered by writing SQL Queries.
+## Following questions to be answered:
 
 1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends
 
