@@ -26,6 +26,6 @@ it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p
 
 ## Tools Used
 
-MySQL - for writing SQL queries
+MySQL - to write SQL queries
 
 PowerPoint - to prepare presentation
